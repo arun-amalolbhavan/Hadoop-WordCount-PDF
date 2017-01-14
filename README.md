@@ -1,5 +1,5 @@
 # Hadoop-WordCount-PDF
-Get word count from PDF file using hadoop mapreduce program
+Word counts from a PDF file using hadoop map reduce program 
 
  - Create input splits for each each PDF file.
  - Create a single map task for each PDF file.
