@@ -7,4 +7,4 @@ Get word count from PDF file using hadoop mapreduce program
 
 Usage:<br/>
 ~$ export LIBJARS=/localpath/fontbox.jar,/localpath/pdfbox.jar<br/>
-~$ hadoop jar hadoop-examples.jar arun.hadoop.wordcount.Driver -libjars ${LIBJARS} /path/*.pdf /path/output
+~$ hadoop jar hadoop-examples.jar arun.hadoop.wordcount.Driver -libjars ${LIBJARS} &nbsp;/path/*.pdf &nbsp;/path/output
